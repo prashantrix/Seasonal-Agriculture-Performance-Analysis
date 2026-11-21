@@ -2,6 +2,10 @@
 
 Python analysis of how crop performance changes across the Kharif, Rabi and Zaid seasons: yield, profit, water efficiency and pest risk.
 
+**Business question:** which season and crop combinations make money, and which lose it?
+
+**Short answer:** Kharif earns the most (178,915 INR average profit) and Zaid loses money on average (-24,805 INR). Cereals sown in Zaid are the weakest combinations, and sugarcane and chilli in Kharif are the strongest.
+
 This is a descriptive analysis. It measures and compares; it does not build a predictive model.
 
 ## Objectives
